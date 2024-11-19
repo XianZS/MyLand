@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\program\\C_cs\\Code\\MyLand\\MyLand\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E4F9E5-CD1B-4EE1-A22F-46ED4BF70BD1}|MyLand\\MyLand.csproj|D:\\program\\C_cs\\Code\\MyLand\\MyLand\\myland\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7E4F9E5-CD1B-4EE1-A22F-46ED4BF70BD1}|MyLand\\MyLand.csproj|solutionrelative:myland\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E4F9E5-CD1B-4EE1-A22F-46ED4BF70BD1}|MyLand\\MyLand.csproj|D:\\program\\C_cs\\Code\\MyLand\\MyLand\\myland\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7E4F9E5-CD1B-4EE1-A22F-46ED4BF70BD1}|MyLand\\MyLand.csproj|solutionrelative:myland\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E4F9E5-CD1B-4EE1-A22F-46ED4BF70BD1}|MyLand\\MyLand.csproj|D:\\program\\C_cs\\Code\\MyLand\\MyLand\\myland\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E4F9E5-CD1B-4EE1-A22F-46ED4BF70BD1}|MyLand\\MyLand.csproj|solutionrelative:myland\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E4F9E5-CD1B-4EE1-A22F-46ED4BF70BD1}|MyLand\\MyLand.csproj|d:\\program\\c_cs\\code\\myland\\myland\\myland\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E4F9E5-CD1B-4EE1-A22F-46ED4BF70BD1}|MyLand\\MyLand.csproj|solutionrelative:myland\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E4F9E5-CD1B-4EE1-A22F-46ED4BF70BD1}|MyLand\\MyLand.csproj|d:\\program\\c_cs\\code\\myland\\myland\\myland\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E4F9E5-CD1B-4EE1-A22F-46ED4BF70BD1}|MyLand\\MyLand.csproj|solutionrelative:myland\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E4F9E5-CD1B-4EE1-A22F-46ED4BF70BD1}|MyLand\\MyLand.csproj|D:\\program\\C_cs\\Code\\MyLand\\MyLand\\myland\\stu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E4F9E5-CD1B-4EE1-A22F-46ED4BF70BD1}|MyLand\\MyLand.csproj|solutionrelative:myland\\stu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Stu.cs",
+              "DocumentMoniker": "D:\\program\\C_cs\\Code\\MyLand\\MyLand\\MyLand\\Stu.cs",
+              "RelativeDocumentMoniker": "MyLand\\Stu.cs",
+              "ToolTip": "D:\\program\\C_cs\\Code\\MyLand\\MyLand\\MyLand\\Stu.cs",
+              "RelativeToolTip": "MyLand\\Stu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T07:12:27.089Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\program\\C_cs\\Code\\MyLand\\MyLand\\MyLand\\Program.cs",
+              "RelativeDocumentMoniker": "MyLand\\Program.cs",
+              "ToolTip": "D:\\program\\C_cs\\Code\\MyLand\\MyLand\\MyLand\\Program.cs",
+              "RelativeToolTip": "MyLand\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T12:20:58.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\program\\C_cs\\Code\\MyLand\\MyLand\\MyLand\\Form1.cs",
+              "RelativeDocumentMoniker": "MyLand\\Form1.cs",
+              "ToolTip": "D:\\program\\C_cs\\Code\\MyLand\\MyLand\\MyLand\\Form1.cs",
+              "RelativeToolTip": "MyLand\\Form1.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAYwGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T11:46:54.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\program\\C_cs\\Code\\MyLand\\MyLand\\MyLand\\Form2.cs",
+              "RelativeDocumentMoniker": "MyLand\\Form2.cs",
+              "ToolTip": "D:\\program\\C_cs\\Code\\MyLand\\MyLand\\MyLand\\Form2.cs",
+              "RelativeToolTip": "MyLand\\Form2.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T11:41:45.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\program\\C_cs\\Code\\MyLand\\MyLand\\MyLand\\Form2.cs",
+              "RelativeDocumentMoniker": "MyLand\\Form2.cs",
+              "ToolTip": "D:\\program\\C_cs\\Code\\MyLand\\MyLand\\MyLand\\Form2.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "MyLand\\Form2.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T11:13:53.592Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\program\\C_cs\\Code\\MyLand\\MyLand\\MyLand\\Form1.cs",
+              "RelativeDocumentMoniker": "MyLand\\Form1.cs",
+              "ToolTip": "D:\\program\\C_cs\\Code\\MyLand\\MyLand\\MyLand\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "MyLand\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T06:13:54.361Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

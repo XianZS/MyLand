@@ -1,0 +1,11 @@
+D:\program\C_cs\Code\MyLand\MyLand\MyLand\obj\Debug\MyLand.csproj.AssemblyReference.cache
+D:\program\C_cs\Code\MyLand\MyLand\MyLand\obj\Debug\MyLand.Form1.resources
+D:\program\C_cs\Code\MyLand\MyLand\MyLand\obj\Debug\MyLand.csproj.GenerateResource.cache
+D:\program\C_cs\Code\MyLand\MyLand\MyLand\bin\Debug\MyLand.exe.config
+D:\program\C_cs\Code\MyLand\MyLand\MyLand\bin\Debug\MyLand.exe
+D:\program\C_cs\Code\MyLand\MyLand\MyLand\bin\Debug\MyLand.pdb
+D:\program\C_cs\Code\MyLand\MyLand\MyLand\obj\Debug\MyLand.Properties.Resources.resources
+D:\program\C_cs\Code\MyLand\MyLand\MyLand\obj\Debug\MyLand.csproj.CoreCompileInputs.cache
+D:\program\C_cs\Code\MyLand\MyLand\MyLand\obj\Debug\MyLand.exe
+D:\program\C_cs\Code\MyLand\MyLand\MyLand\obj\Debug\MyLand.pdb
+D:\program\C_cs\Code\MyLand\MyLand\MyLand\obj\Debug\MyLand.Form2.resources
